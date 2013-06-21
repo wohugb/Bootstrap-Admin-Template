@@ -1,18 +1,18 @@
-Free Admin Template with Twitter Bootstrap
+基于Twitter Bootstrap的免费后台模板
 ------------------------------------------
 
-### Installation
+### 安装
 
     $ git clone https://github.com/onokumus/Bootstrap-Admin-Template.git yourfoldername
     $ cd yourfoldername
     $ git submodule init
     $ git submodule update
 
-### Demo
+### D演示emo
 
 [http://demo.onokumus.com/metis/index.html][1]
 
-### Licensing
+### 许可
 
 Bootstrap Admin template is open-sourced software licensed under the [MIT License][2]
 
