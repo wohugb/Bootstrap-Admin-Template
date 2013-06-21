@@ -8,7 +8,7 @@
     $ git submodule init
     $ git submodule update
 
-### D演示emo
+### 演示
 
 [http://demo.onokumus.com/metis/index.html][1]
 
